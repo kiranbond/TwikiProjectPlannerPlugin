@@ -1,0 +1,19 @@
+%META:TOPICINFO{author="TWikiContributor" date="1289458388" format="1.1" version="1"}%
+<!-- THE TABLES ON THIS PAGE WILL SHOW THE PROJECT STATUS AUTOMATICALLY -->
+<!-- ADDING EXTRA CONTENT TO THIS PAGE IS OPTIONAL - -->
+
+
+<h1>%TOPIC%</h1>
+
+%TABLE{}%
+| *PP Project Template* | PROJECTPLANNER |
+| *PP Project Summary* | PPSUMMARY |
+| *PP Project Id(s)* | PPID |
+
+%PPPROJECTPLANS{%TOPIC%}%
+
+<b>Task Information</b>
+
+%PPALLPROJECTSTASKS{%TOPIC%}%
+
+<b>Project details</b>:
